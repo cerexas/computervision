@@ -15,7 +15,8 @@ libcamera-vid -t 10000 -o video.h264
 - [Camera modules](https://www.raspberrypi.com/documentation/accessories/camera.html)
 - [Camera software](https://www.raspberrypi.com/documentation/computers/camera_software.html)
 - [Google Coral - Get Started](https://coral.ai/docs/accelerator/get-started)
-- [Google Coral - Examples](https://coral.ai/examples/)
+- [Google Coral - Examples](https://coral.ai/examples)
+- [Google Coral - Models](https://coral.ai/models)
 
 **Bildedatabaser**
 - [ImageNet](https://image-net.org/): This is a large database of annotated images, and it's often used in image recognition and object detection tasks.
