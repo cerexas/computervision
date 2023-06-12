@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# Make a directory named 'coral' and change into it
-mkdir coral && cd coral
+# Make a directory named 'git' in the user's home directory and change into it
+mkdir -p ~/git && cd ~/git
 
 # Clone the pycoral repository
 git clone https://github.com/google-coral/pycoral.git
 
 # Change into the pycoral directory
-cd pycoral
+cd ~/git/pycoral
 
 # Run the install script for classify_image.py
 bash examples/install_requirements.sh classify_image.py
