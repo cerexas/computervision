@@ -1,7 +1,14 @@
 # Computer vision
 
+**Forhåndsvisning**
+```
+libcamera-hello -t 0
+```
+
+**Bilde og video**
 ```
 libcamera-still -o bilde.jpg
+libcamera-vid -t 10000 -o video.h264
 ```
 
 **Lenker**
